@@ -3,6 +3,6 @@ for myself
 
 ## Project Notes
 
--name
--file
--age
+*name
+*file
+*age
