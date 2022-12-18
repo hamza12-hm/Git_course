@@ -6,8 +6,10 @@
 
 
 
-	git add   => to add files from working directory  to staging area . 
+	git add  index.html process.jpg => to add files from working directory  to staging area . 
 
-	git commit => to add files from staging area  to local repo .
 
+	git reset head process.jpg => to reset the file from staging area.
+
+	git commit -m "I published " => to add files from staging area  to local repo .
 		working directory , staging area, local repo => all these considered in local . 
