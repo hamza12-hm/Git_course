@@ -3,6 +3,4 @@ for myself
 
 ## Project Notes
 
-*name
-*file
-*age
+
