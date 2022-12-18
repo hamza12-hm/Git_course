@@ -1,0 +1,13 @@
+
+
+	git status => to check the files to check whether they : tracked , commited 
+		or not yet.
+
+
+
+
+	git add   => to add files from working directory  to staging area . 
+
+	git commit => to add files from staging area  to local repo .
+
+		working directory , staging area, local repo => all these considered in local . 
